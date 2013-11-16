@@ -1,0 +1,5 @@
+c:\users\jose andres rosario\documents\visual studio 2013\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.exe.config
+c:\users\jose andres rosario\documents\visual studio 2013\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.exe
+c:\users\jose andres rosario\documents\visual studio 2013\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.pdb
+c:\users\jose andres rosario\documents\visual studio 2013\Projects\VideoStore\VideoStore\obj\Debug\VideoStore.exe
+c:\users\jose andres rosario\documents\visual studio 2013\Projects\VideoStore\VideoStore\obj\Debug\VideoStore.pdb
